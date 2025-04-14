@@ -46,20 +46,21 @@ Make sure you have Python installed. This application uses:
 git clone https://github.com/MuhdSulthan/PRODIGY_CS_01.git
 cd PRODIGY_CS_01
 ```
-🧑‍💻 How to Use
 
-  1.📝 Enter the text you want to encrypt or decrypt.
-  2. 🔢 Choose a shift value between 1 and 25.
-  3. 🔐 Click Encrypt to cipher the message.
-  4. 🔓 Click Decrypt to decode it.
-  5. 🧹 Click Clear to reset everything.
+### 3. How to Use
+1. Enter the **text** you want to encrypt or decrypt.
+2. Provide a **shift value** (e.g., 3 shifts letters forward/backward).
+3. Click **Encrypt** to get the encrypted text.
+4. Click **Decrypt** to decode a previously encrypted text.
+5. Click **Clear** to repeat the process.
 
-🔍 Example Usage
-  🔐 Encryption
-    Input: Hello World
-    Shift: 3
-    Output: Khoor Zruog
-  🔓 Decryption
-    Input: Khoor Zruog
-    Shift: 3
-    Output: Hello World
+## Example Usage
+**Encryption:**  
+  - Input: `Hello World`
+  - Shift: `3`
+  - Output: `Khoor Zruog`
+
+**Decryption:**  
+  - Input: `Khoor Zruog`
+  - Shift: `3`
+  - Output: `Hello World`
