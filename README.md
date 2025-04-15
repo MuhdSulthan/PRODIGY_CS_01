@@ -1,24 +1,4 @@
-# PRODIGY_CS_01
-This is my project for Prodigy InfoTech
 
-# 🔐 Caesar Cipher GUI - Python
-
-## Overview
-This is a **Caesar Cipher GUI** application built using **Python and Tkinter**. It allows users to encrypt and decrypt text using the **Caesar Cipher algorithm** with a specified shift value.
-
-## Features
-✅ Encrypts and decrypts text using the Caesar Cipher method.  
-✅ User-friendly GUI with text input and shift value selection.  
-✅ Supports uppercase, lowercase, and special characters.  
-✅ Clear input/output and status updates.  
-✅ Simple and lightweight application.
-
-## Requirements
-Make sure you have Python installed. This application uses:
-- **Python 3.x**
-- **Tkinter** (comes pre-installed with Python)
-
-## Installation & Usage
 # PRODIGY_CS_01  
 This is my project for Prodigy InfoTech
 
